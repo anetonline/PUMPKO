@@ -73,7 +73,7 @@ Story mode follows the monthly campaign; Daily mode gives callers a reason to re
 
 Enable optional **InterBBS score sharing** to send results to the A-Net score hub and view shared Story and Daily rankings.
 
-**Score hub:** https://scores.a-net.online
+**Score hub:** 
 
 Local scores remain available. The seasonal game works offline, and score sharing can be disabled independently of live chat.
 
@@ -85,7 +85,7 @@ A caller in PUMPKO on one BBS can meet a caller in **ANetARCADE** on another.
 
 Enable shared live chat during installation, then press **C** from the lobby. The status display shows connected players, BBSes, and how many callers are in chat.
 
-**Shared lobby:** https://chat.a-net.online
+**Shared lobby:** 
 
 Say **no** during setup and chat stays out of the menu. Score sharing and chat are separate options—you choose which services your board uses.
 
